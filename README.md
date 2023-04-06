@@ -1,4 +1,4 @@
-# Hide-Seek
+# Hide&Seek
 
 数据结构课设
 
